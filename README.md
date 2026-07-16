@@ -86,8 +86,9 @@
 
 * Telegram-канал: **[@magerdev1](https://t.me/magerdev1)**
 * Почта: **magerkopython@gmail.com**
-* Поддержать проект: **[Donatello](https://donatello.to/magerdev1)** — по желанию,
-  приложение бесплатное и донат ничего не разблокирует
+* Поддержать проект: **[Donatello](https://donatello.to/magerdev1)** или
+  **[DonatePay](https://donatepay.eu/don/34347)** (рубли) — по желанию.
+  Приложение бесплатное, донат ничего не разблокирует
 
 ---
 
